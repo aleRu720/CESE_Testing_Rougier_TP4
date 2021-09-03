@@ -10,7 +10,7 @@ Se tomó y adaptó una parte del código del proyecto, que maneja la MEF princip
     - Leer ADC
     -  Convertir Datos ADC en Valores de Ingeniería 
     - Enviar valores al Servidor 
-    - Nunero máximo de reintentos 3 
+    - Numero máximo de reintentos 3 
     - Poner el micro a "Dormir"
 - SLEEP
     - Despierta el micro y lo pasa a READY
